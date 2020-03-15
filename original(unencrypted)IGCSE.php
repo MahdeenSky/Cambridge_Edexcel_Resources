@@ -1,0 +1,360 @@
+<!-- You're not supposed to see this --> 
+<a href="#" target="_blank">
+<img src="https://hitwebcounter.com/counter/counter.php?page=7181941&style=0036&nbdigits=5&type=ip&initCount=0" title="unique visitors" Alt=" counter Visits" align="left"  border="0" width="200" length="200" >
+</a>                                    
+
+<style>
+#myVideo {
+  position: fixed;
+    top: 50%;
+    left: 50%;
+    min-width: 100%;
+    min-height: 100%;
+    z-index: -100;
+    -ms-transform: translateX(-50%) translateY(-50%);
+    -moz-transform: translateX(-50%) translateY(-50%);
+    -webkit-transform: translateX(-50%) translateY(-50%);
+    background-size: cover;
+}
+</style>
+<video autoplay muted loop id="myVideo">
+  <source src="myvideo.mp4" type="video/mp4">
+  Your browser does not support HTML5 video.
+</video>
+                   
+
+
+<!DOCTYPE html>
+<html xmlns>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="stylesheet" type="text/css" href="style.css" />
+<title>Edexcel&Cambridge Resources</title>
+<style>
+img[alt="www.000webhost.com"]{display:none;}
+p {font-size:140%;}
+a {color:green;}
+#bar {position:relative; right:20px;}
+.container {overflow-y: scroll;overflow-x: hidden;height: 452px;width: 410px;}
+</style>
+
+</head>
+
+
+
+<body>
+  <!-- Logo -->  
+  <img src="Logo.jpg" alt="Logo" length="300" width="160" style="position:relative; top:45px; left:120px; border:2px solid black;">
+  
+  <div id="main">
+  	<h1 style="font-family:Rockwell; "><ins><a href="index.php" style="color:black;">Edexcel&Cambridge Resources</a></ins></h1>
+  <div id="header">
+    	<a id="bar" href="https://mahdeencv.000webhostapp.com/" style="text-shadow:3px 2px 0 black">Home</a>
+        <a id="bar" href="EdexcelASA2Level.php" style="text-shadow:3px 2px 0 black">Edexcel AS/A2 Level</a>
+        <a id="bar" href="IGCSE.php" style="text-shadow:3px 2px 0 black">Cambridge IGCSE</a>
+        <a id="bar" href="ComingSoon.html" style="text-shadow:3px 2px 0 black">Cambridge AS/A2 Level</a>
+        <a id="bar" href="Ebooks.php" style="text-shadow:1px 2px 0 black">E-Books</a>
+        <a id="bar" href="ComingSoon.html" style="text-shadow:2px 2px 0 black">Contact Me</a>
+  </div>
+
+   
+    <!--October 2019-->
+    <div id="contentColumn">
+    <h2 style="font-family:Garamond">October 2019</h2>
+        <div class="divider"></div>
+        <div class="container">
+        <p style="position:relative; left:8px; font-size:20px; "><em>(\/)Physics: 
+        <pre style="font-size:20px;">
+<a href="https://up-load.io/a0inuimyeccc" target=_blank>0625_w19_ms_11.pdf - 94 KB</a>
+<a href="https://up-load.io/d6s5t9otvc51" target=_blank>0625_w19_ms_12.pdf - 94 KB</a>
+<a href="https://up-load.io/ms3w9s9g1i0q" target=_blank>0625_w19_ms_13.pdf - 93 KB</a>
+<a href="https://up-load.io/ahuyafd9kgup" target=_blank>0625_w19_ms_21.pdf - 93 KB</a>
+<a href="https://up-load.io/ra7avlrpmknp" target=_blank>0625_w19_ms_22.pdf - 94 KB</a>
+<a href="https://up-load.io/ymw98njffvkn" target=_blank>0625_w19_ms_23.pdf - 93 KB</a>
+<a href="https://up-load.io/r9wc3cwyg30a" target=_blank>0625_w19_ms_31.pdf - 184 KB</a>
+<a href="https://up-load.io/a04u6pxz0bu2" target=_blank>0625_w19_ms_32.pdf - 143 KB</a>
+<a href="https://up-load.io/iqm5nzk15vmb" target=_blank>0625_w19_ms_33.pdf - 148 KB</a>
+<a href="https://up-load.io/pr59bjbfn3a4" target=_blank>0625_w19_ms_41.pdf - 184 KB</a>
+<a href="https://up-load.io/88e70mr7yfol" target=_blank>0625_w19_ms_42.pdf - 178 KB</a>
+<a href="https://up-load.io/5tynure2yiky" target=_blank>0625_w19_ms_43.pdf - 198 KB</a>
+<a href="https://up-load.io/77u423ptzsqt" target=_blank>0625_w19_ms_51.pdf - 140 KB</a>
+<a href="https://up-load.io/onqt9vkhnzvq" target=_blank>0625_w19_ms_52.pdf - 141 KB</a>
+<a href="https://up-load.io/8g57wnq4sh08" target=_blank>0625_w19_ms_53.pdf - 147 KB</a>
+<a href="https://up-load.io/4ziz2pg4d17j" target=_blank>0625_w19_ms_61.pdf - 140 KB</a>
+<a href="https://up-load.io/izq7lxpzcrc0" target=_blank>0625_w19_ms_62.pdf - 128 KB</a>
+<a href="https://up-load.io/z2r9dwsuavfa" target=_blank>0625_w19_ms_63.pdf - 146 KB</a>
+<a href="https://up-load.io/r90xtvah1g63" target=_blank>0625_w19_qp_11.pdf - 267 KB</a>
+<a href="https://up-load.io/bc68oau55wl2" target=_blank>0625_w19_qp_12.pdf - 290 KB</a>
+<a href="https://up-load.io/i9k71gdzpfus" target=_blank>0625_w19_qp_13.pdf - 286 KB</a>
+<a href="https://up-load.io/i4aalp7hki6r" target=_blank>0625_w19_qp_21.pdf - 290 KB</a>
+<a href="https://up-load.io/dwmqhyzfjcgg" target=_blank>0625_w19_qp_22.pdf - 248 KB</a>
+<a href="https://up-load.io/d82ow4uujle5" target=_blank>0625_w19_qp_23.pdf - 262 KB</a>
+<a href="https://up-load.io/k7lln8s5vtka" target=_blank>0625_w19_qp_31.pdf - 3.1 MB</a>
+<a href="https://up-load.io/5jzblz5d2rsl" target=_blank>0625_w19_qp_32.pdf - 2.8 MB</a>
+<a href="https://up-load.io/ds5ydw2qrpas" target=_blank>0625_w19_qp_33.pdf - 2.5 MB</a>
+<a href="https://up-load.io/7jclxlrw7tvn" target=_blank>0625_w19_qp_41.pdf - 2.8 MB</a>
+<a href="https://up-load.io/fw283xcnobap" target=_blank>0625_w19_qp_42.pdf - 2.2 MB</a>
+<a href="https://up-load.io/br6sakgmti00" target=_blank>0625_w19_qp_43.pdf - 1.1 MB</a>
+<a href="https://up-load.io/gl9ddnme3jr8" target=_blank>0625_w19_qp_51.pdf - 1.0 MB</a>
+<a href="https://up-load.io/ibixsi5d1s8s" target=_blank>0625_w19_qp_52.pdf - 2.0 MB</a>
+<a href="https://up-load.io/egb6oo6cm996" target=_blank>0625_w19_qp_53.pdf - 2.1 MB</a>
+<a href="https://up-load.io/hv1s4y5f1k2i" target=_blank>0625_w19_qp_61.pdf - 1.1 MB</a>
+<a href="https://up-load.io/9gx9qhfllu02" target=_blank>0625_w19_qp_62.pdf - 2.1 MB</a>
+<a href="https://up-load.io/ufofzrtoivke" target=_blank>0625_w19_qp_63.pdf - 1.2 MB</a>
+</pre><br><br><br>
+        
+        <p style="position:relative; left:8px; font-size:20px; "><em>(\/)Biology:
+        <br><pre style="font-size:20px;"><a href="https://up-load.io/e2iziu53dx4n" target=_blank>0610_w19_ms_11.pdf - 94 KB</a>
+<a href="https://up-load.io/2n8ik42skzb9" target=_blank>0610_w19_ms_12.pdf - 94 KB</a>
+<a href="https://up-load.io/2s0hkbuppb4a" target=_blank>0610_w19_ms_13.pdf - 94 KB</a>
+<a href="https://up-load.io/71p7qnhdai4g" target=_blank>0610_w19_ms_21.pdf - 94 KB</a>
+<a href="https://up-load.io/63nmnx9z7p8a" target=_blank>0610_w19_ms_22.pdf - 94 KB</a>
+<a href="https://up-load.io/n65ouyvnkse7" target=_blank>0610_w19_ms_23.pdf - 93 KB</a>
+<a href="https://up-load.io/lwacunn596yo" target=_blank>0610_w19_ms_31.pdf - 165 KB</a>
+<a href="https://up-load.io/ct1dhz062mqu" target=_blank>0610_w19_ms_32.pdf - 169 KB</a>
+<a href="https://up-load.io/succoy6ubhld" target=_blank>0610_w19_ms_33.pdf - 175 KB</a>
+<a href="https://up-load.io/tqkac4jwi4dw" target=_blank>0610_w19_ms_41.pdf - 184 KB</a>
+<a href="https://up-load.io/uvg5k9x6qo42" target=_blank>0610_w19_ms_42.pdf - 178 KB</a>
+<a href="https://up-load.io/a8yp13iqet2e" target=_blank>0610_w19_ms_43.pdf - 144 KB</a>
+<a href="https://up-load.io/vmxwe7knehpa" target=_blank>0610_w19_ms_51.pdf - 139 KB</a>
+<a href="https://up-load.io/7riz6c9d3tp5" target=_blank>0610_w19_ms_52.pdf - 159 KB</a>
+<a href="https://up-load.io/beaaxianv6xd" target=_blank>0610_w19_ms_53.pdf - 147 KB</a>
+<a href="https://up-load.io/hovcvr3a9s6n" target=_blank>0610_w19_ms_61.pdf - 154 KB</a>
+<a href="https://up-load.io/qhlrwem77l3x" target=_blank>0610_w19_ms_62.pdf - 144 KB</a>
+<a href="https://up-load.io/x4erm9a3vwy1" target=_blank>0610_w19_ms_63.pdf - 148 KB</a>
+<a href="https://up-load.io/f846fgbufk1e" target=_blank>0610_w19_qp_11.pdf - 560 KB</a>
+<a href="https://up-load.io/5ncxfitz4bg7" target=_blank>0610_w19_qp_12.pdf - 609 KB</a>
+<a href="https://up-load.io/8ao2afs8e2r6" target=_blank>0610_w19_qp_13.pdf - 534 KB</a>
+<a href="https://up-load.io/c9auoy4r7ou9" target=_blank>0610_w19_qp_21.pdf - 400 KB</a>
+<a href="https://up-load.io/8kknybig6xv4" target=_blank>0610_w19_qp_22.pdf - 502 KB</a>
+<a href="https://up-load.io/kj7hhlj0w0lx" target=_blank>0610_w19_qp_23.pdf - 436 KB</a>
+<a href="https://up-load.io/grxrm43vq9uv" target=_blank>0610_w19_qp_31.pdf - 3.4 MB</a>
+<a href="https://up-load.io/vzuaoxp1hgbe" target=_blank>0610_w19_qp_32.pdf - 2.9 MB</a>
+<a href="https://up-load.io/ftb5kqz10eps" target=_blank>0610_w19_qp_33.pdf - 2.9 MB</a>
+<a href="https://up-load.io/lr14o1w1x0zw" target=_blank>0610_w19_qp_41.pdf - 3.9 MB</a>
+<a href="https://up-load.io/pyeoaan8nhnb" target=_blank>0610_w19_qp_42.pdf - 4.4 MB</a>
+<a href="https://up-load.io/74yniahrure5" target=_blank>0610_w19_qp_43.pdf - 3.3 MB</a>
+<a href="https://up-load.io/qxuyf145gkd1" target=_blank>0610_w19_qp_51.pdf - 2.7 MB</a>
+<a href="https://up-load.io/9uz4aezjmqi9" target=_blank>0610_w19_qp_52.pdf - 2.9 MB</a>
+<a href="https://up-load.io/awzexuxeajjr" target=_blank>0610_w19_qp_53.pdf - 1.9 MB</a>
+<a href="https://up-load.io/5t008jbqv83y" target=_blank>0610_w19_qp_61.pdf - 1.1 MB</a>
+<a href="https://up-load.io/9otcvns01kir" target=_blank>0610_w19_qp_62.pdf - 3.0 MB</a>
+<a href="https://up-load.io/o5gwz4oa02xl" target=_blank>0610_w19_qp_63.pdf - 2.0 MB</a>
+</pre><br><br><br>
+        
+        
+        <p style="position:relative; left:8px; font-size:20px; "><em>(\/)Chemistry: 
+        <br><pre style="font-size:20px;"><a href="https://up-load.io/j3uikh33wr4w" target=_blank>0620_w19_ms_11.pdf - 94 KB</a>
+<a href="https://up-load.io/tgr94vpo3fo1" target=_blank>0620_w19_ms_12.pdf - 94 KB</a>
+<a href="https://up-load.io/6o881rsr5qdk" target=_blank>0620_w19_ms_13.pdf - 93 KB</a>
+<a href="https://up-load.io/p06827jaadve" target=_blank>0620_w19_ms_21.pdf - 94 KB</a>
+<a href="https://up-load.io/15nblcmbjep2" target=_blank>0620_w19_ms_22.pdf - 94 KB</a>
+<a href="https://up-load.io/h2j5ztz6jp2r" target=_blank>0620_w19_ms_23.pdf - 94 KB</a>
+<a href="https://up-load.io/3lcv95a82tl0" target=_blank>0620_w19_ms_31.pdf - 136 KB</a>
+<a href="https://up-load.io/1yhblyvz0mdb" target=_blank>0620_w19_ms_32.pdf - 144 KB</a>
+<a href="https://up-load.io/tinofmbg2gms" target=_blank>0620_w19_ms_33.pdf - 150 KB</a>
+<a href="https://up-load.io/zhwjdowlbrkp" target=_blank>0620_w19_ms_41.pdf - 150 KB</a>
+<a href="https://up-load.io/uzulehkm6etj" target=_blank>0620_w19_ms_42.pdf - 150 KB</a>
+<a href="https://up-load.io/we553kztq2w7" target=_blank>0620_w19_ms_43.pdf - 163 KB</a>
+<a href="https://up-load.io/rf7pnjqjbh04" target=_blank>0620_w19_ms_51.pdf - 116 KB</a>
+<a href="https://up-load.io/8g46zs2dp3bb" target=_blank>0620_w19_ms_52.pdf - 123 KB</a>
+<a href="https://up-load.io/kpgeze2t148x" target=_blank>0620_w19_ms_53.pdf - 116 KB</a>
+<a href="https://up-load.io/2jb40dtom8a1" target=_blank>0620_w19_ms_61.pdf - 113 KB</a>
+<a href="https://up-load.io/az4lusj0nh9x" target=_blank>0620_w19_ms_62.pdf - 114 KB</a>
+<a href="https://up-load.io/xspk9zahz7wo" target=_blank>0620_w19_ms_63.pdf - 117 KB</a>
+<a href="https://up-load.io/ujk9euh09vdt" target=_blank>0620_w19_qp_11.pdf - 287 KB</a>
+<a href="https://up-load.io/xzutpend1tdg" target=_blank>0620_w19_qp_12.pdf - 304 KB</a>
+<a href="https://up-load.io/n4jor7ccmdfq" target=_blank>0620_w19_qp_13.pdf - 308 KB</a>
+<a href="https://up-load.io/tcai0772j767" target=_blank>0620_w19_qp_21.pdf - 272 KB</a>
+<a href="https://up-load.io/rtefolfpxauw" target=_blank>0620_w19_qp_22.pdf - 305 KB</a>
+<a href="https://up-load.io/6zw5850b0ezs" target=_blank>0620_w19_qp_23.pdf - 294 KB</a>
+<a href="https://up-load.io/i5mrj4ay0vge" target=_blank>0620_w19_qp_31.pdf - 1.3 MB</a>
+<a href="https://up-load.io/iaja9wcxohh2" target=_blank>0620_w19_qp_32.pdf - 1.4 MB</a>
+<a href="https://up-load.io/frlg0gmp59cg" target=_blank>0620_w19_qp_33.pdf - 1.5 MB</a>
+<a href="https://up-load.io/5554emvx4dbc" target=_blank>0620_w19_qp_41.pdf - 1.2 MB</a>
+<a href="https://up-load.io/jwyx5gcx5jhz" target=_blank>0620_w19_qp_42.pdf - 1.2 MB</a>
+<a href="https://up-load.io/zdg6zcqweosw" target=_blank>0620_w19_qp_43.pdf - 1.4 MB</a>
+<a href="https://up-load.io/mv0dk1ti7rdg" target=_blank>0620_w19_qp_51.pdf - 917 KB</a>
+<a href="https://up-load.io/hpslyx1vq774" target=_blank>0620_w19_qp_52.pdf - 1.0 MB</a>
+<a href="https://up-load.io/eqbovgsamvfw" target=_blank>0620_w19_qp_53.pdf - 918 KB</a>
+<a href="https://up-load.io/6zzeyd7czjga" target=_blank>0620_w19_qp_61.pdf - 903 KB</a>
+<a href="https://up-load.io/s1yj7l1x6vux" target=_blank>0620_w19_qp_62.pdf - 1.0 MB</a>
+<a href="https://up-load.io/v4mimzb5tmay" target=_blank>0620_w19_qp_63.pdf - 954 KB</a>
+</pre><br><br><br>
+        
+        <p style="position:relative; left:8px; font-size:20px; "><em>(\/)Math:
+        <br><pre style="font-size:20px;"><a href="https://up-load.io/fv5r5sx7noxp" target=_blank>0580_w19_ms_11.pdf - 185 KB</a>
+<a href="https://up-load.io/2yt29s428den" target=_blank>0580_w19_ms_12.pdf - 200 KB</a>
+<a href="https://up-load.io/64gyaqmixesp" target=_blank>0580_w19_ms_13.pdf - 182 KB</a>
+<a href="https://up-load.io/q5qajv81of3o" target=_blank>0580_w19_ms_21.pdf - 213 KB</a>
+<a href="https://up-load.io/bwu4thgmystq" target=_blank>0580_w19_ms_22.pdf - 197 KB</a>
+<a href="https://up-load.io/3l47ibtec50u" target=_blank>0580_w19_ms_23.pdf - 230 KB</a>
+<a href="https://up-load.io/8a8qkxdbqpfr" target=_blank>0580_w19_ms_31.pdf - 213 KB</a>
+<a href="https://up-load.io/hwf6zmwe9l1h" target=_blank>0580_w19_ms_32.pdf - 198 KB</a>
+<a href="https://up-load.io/rkyho7gq785z" target=_blank>0580_w19_ms_33.pdf - 209 KB</a>
+<a href="https://up-load.io/dxn5x46n1sjr" target=_blank>0580_w19_ms_41.pdf - 228 KB</a>
+<a href="https://up-load.io/8sgpifzy1edz" target=_blank>0580_w19_ms_42.pdf - 216 KB</a>
+<a href="https://up-load.io/cx5os6u3opqq" target=_blank>0580_w19_ms_43.pdf - 232 KB</a>
+<a href="https://up-load.io/cz5du17n2mwk" target=_blank>0580_w19_qp_11.pdf - 1.7 MB</a>
+<a href="https://up-load.io/jkrj638tcv51" target=_blank>0580_w19_qp_12.pdf - 1.9 MB</a>
+<a href="https://up-load.io/8gtxnqtin8m3" target=_blank>0580_w19_qp_13.pdf - 1.8 MB</a>
+<a href="https://up-load.io/wcqgtfspy36v" target=_blank>0580_w19_qp_21.pdf - 1.7 MB</a>
+<a href="https://up-load.io/nj8kr5g4yb2a" target=_blank>0580_w19_qp_22.pdf - 1.9 MB</a>
+<a href="https://up-load.io/sew6kjmi78s0" target=_blank>0580_w19_qp_23.pdf - 2.0 MB</a>
+<a href="https://up-load.io/kipidqpkwct0" target=_blank>0580_w19_qp_31.pdf - 2.2 MB</a>
+<a href="https://up-load.io/6n748gprgjos" target=_blank>0580_w19_qp_32.pdf - 2.3 MB</a>
+<a href="https://up-load.io/131hqmoutf0y" target=_blank>0580_w19_qp_33.pdf - 2.1 MB</a>
+<a href="https://up-load.io/d95vkwgnjvgo" target=_blank>0580_w19_qp_41.pdf - 2.4 MB</a>
+<a href="https://up-load.io/g739zlfggdfs" target=_blank>0580_w19_qp_42.pdf - 2.4 MB</a>
+<a href="https://up-load.io/p7b5f9s2e6bg" target=_blank>0580_w19_qp_43.pdf - 2.5 MB</a>
+</pre><br><br><br>
+        
+         <p style="position:relative; left:8px; font-size:20px; "><em>(\/)Computer Science: 
+        <br><pre style="font-size:20px;"><a href="https://up-load.io/z72h5ujwfmx2" target=_blank>0478_w19_ms_11.pdf - 140 KB</a>
+<a href="https://up-load.io/z22qpd1wl7vc" target=_blank>0478_w19_ms_12.pdf - 140 KB</a>
+<a href="https://up-load.io/lnko45q2pnsw" target=_blank>0478_w19_ms_13.pdf - 159 KB</a>
+<a href="https://up-load.io/v095v9o5kh3s" target=_blank>0478_w19_ms_21.pdf - 217 KB</a>
+<a href="https://up-load.io/nhci0604vm28" target=_blank>0478_w19_ms_22.pdf - 189 KB</a>
+<a href="https://up-load.io/jw4dy7vjgf73" target=_blank>0478_w19_ms_23.pdf - 187 KB</a>
+<a href="https://up-load.io/i9m7u3oga66c" target=_blank>0478_w19_pm_21.pdf - 1020 KB</a>
+<a href="https://up-load.io/2mwoif87l16f" target=_blank>0478_w19_pm_22.pdf - 992 KB</a>
+<a href="https://up-load.io/ffqm7vv0yatq" target=_blank>0478_w19_pm_23.pdf - 1023 KB</a>
+<a href="https://up-load.io/tkv7dbgftilp" target=_blank>0478_w19_qp_11.pdf - 932 KB</a>
+<a href="https://up-load.io/oc7y7c5c2pc7" target=_blank>0478_w19_qp_12.pdf - 892 KB</a>
+<a href="https://up-load.io/5yu6p2lndsgv" target=_blank>0478_w19_qp_13.pdf - 927 KB</a>
+<a href="https://up-load.io/26bsytxxcfkq" target=_blank>0478_w19_qp_21.pdf - 2.1 MB</a>
+<a href="https://up-load.io/trwu0dnh93pz" target=_blank>0478_w19_qp_22.pdf - 2.4 MB</a>
+<a href="https://up-load.io/wcp0r7trgkbo" target=_blank>0478_w19_qp_23.pdf - 2.1 MB</a>
+</pre><br><br><br>
+
+<p style="position:relative; left:8px; font-size:20px; "><em>(\/)English As A Second Language(ESL):
+        <br><pre style="font-size:20px;"><a href="https://up-load.io/n82elmur35b6" target=_blank>0510_w19_ms_11.pdf - 140 KB</a>
+<a href="https://up-load.io/nef8tb1eczrs" target=_blank>0510_w19_ms_12.pdf - 149 KB</a>
+<a href="https://up-load.io/tulgsuybaxex" target=_blank>0510_w19_ms_13.pdf - 129 KB</a>
+<a href="https://up-load.io/f1agm0p7a0fo" target=_blank>0510_w19_ms_21.pdf - 141 KB</a>
+<a href="https://up-load.io/qvpvz65mb309" target=_blank>0510_w19_ms_22.pdf - 152 KB</a>
+<a href="https://up-load.io/fp1dqtmhczbt" target=_blank>0510_w19_ms_23.pdf - 130 KB</a>
+<a href="https://up-load.io/rftaotzyialo" target=_blank>0510_w19_ms_31.pdf - 110 KB</a>
+<a href="https://up-load.io/dm2hfxqxkus6" target=_blank>0510_w19_ms_32.pdf - 99 KB</a>
+<a href="https://up-load.io/8z8l2loq013n" target=_blank>0510_w19_ms_33.pdf - 100 KB</a>
+<a href="https://up-load.io/bjx6mmn6b65t" target=_blank>0510_w19_ms_41.pdf - 111 KB</a>
+<a href="https://up-load.io/jlzdcov6i30o" target=_blank>0510_w19_ms_42.pdf - 101 KB</a>
+<a href="https://up-load.io/6cfqk3e0et5q" target=_blank>0510_w19_ms_43.pdf - 102 KB</a>
+<a href="https://up-load.io/ka5cw0f2mfxr" target=_blank>0510_w19_qp_11.pdf - 2.8 MB</a>
+<a href="https://up-load.io/hnk65wcvfzph" target=_blank>0510_w19_qp_12.pdf - 2.7 MB</a>
+<a href="https://up-load.io/h37fppcp7ynx" target=_blank>0510_w19_qp_13.pdf - 2.9 MB</a>
+<a href="https://up-load.io/jqwqxrw9km3t" target=_blank>0510_w19_qp_21.pdf - 3.0 MB</a>
+<a href="https://up-load.io/8t0jswefdflv" target=_blank>0510_w19_qp_22.pdf - 2.8 MB</a>
+<a href="https://up-load.io/ovte4kkvbemg" target=_blank>0510_w19_qp_23.pdf - 3.0 MB</a>
+<a href="https://up-load.io/78l55d97t0sb" target=_blank>0510_w19_qp_31.pdf - 1.6 MB</a>
+<a href="https://up-load.io/8t4baq1uqdxc" target=_blank>0510_w19_qp_32.pdf - 688 KB</a>
+<a href="https://up-load.io/gfdbjqlbznb6" target=_blank>0510_w19_qp_33.pdf - 822 KB</a>
+<a href="https://up-load.io/723wbaw46b8e" target=_blank>0510_w19_qp_41.pdf - 1.6 MB</a>
+<a href="https://up-load.io/t7j7zgtep0p7" target=_blank>0510_w19_qp_42.pdf - 885 KB</a>
+<a href="https://up-load.io/r594xxpz38gb" target=_blank>0510_w19_qp_43.pdf - 1.7 MB</a>
+</pre><br><br><br>
+
+        <p style="position:relative; left:8px; font-size:20px; "><em>(\/)Economics: 
+        <br><pre style="font-size:20px;">
+<a href="https://up-load.io/aj8rttdl0mtu" target=_blank>0455_w19_ms_11.pdf - 92 KB</a>
+<a href="https://up-load.io/u3795x63ridl" target=_blank>0455_w19_ms_12.pdf - 92 KB</a>
+<a href="https://up-load.io/n10pfh5jyzak" target=_blank>0455_w19_ms_13.pdf - 92 KB</a>
+<a href="https://up-load.io/07n4r646xmev" target=_blank>0455_w19_ms_21.pdf - 186 KB</a>
+<a href="https://up-load.io/2ebtw8hnspzw" target=_blank>0455_w19_ms_22.pdf - 202 KB</a>
+<a href="https://up-load.io/83x6fnlaolf8" target=_blank>0455_w19_ms_23.pdf - 197 KB</a>
+<a href="https://up-load.io/gybqjnsu8bvu" target=_blank>0455_w19_qp_11.pdf - 183 KB</a>
+<a href="https://up-load.io/u3ica76six7e" target=_blank>0455_w19_qp_12.pdf - 162 KB</a>
+<a href="https://up-load.io/8nnaxtw04cym" target=_blank>0455_w19_qp_13.pdf - 165 KB</a>
+<a href="https://up-load.io/o8t6asnhz3fl" target=_blank>0455_w19_qp_21.pdf - 1.5 MB</a>
+<a href="https://up-load.io/qzykt1qehwvu" target=_blank>0455_w19_qp_22.pdf - 1.5 MB</a>
+<a href="https://up-load.io/5bthsv54y62w" target=_blank>0455_w19_qp_23.pdf - 1.6 MB</a>
+</pre><br><br><br>
+
+        <p style="position:relative; left:8px; font-size:20px; "><em>(\/)ICT: 
+        <br><pre style="font-size:20px;">
+<a href="https://up-load.io/kz8rp8tciagc" target=_blank>0417_w19_ms_2.pdf - 490 KB</a>
+<a href="https://up-load.io/8mg7yjcx0qir" target=_blank>0417_w19_ms_3.pdf - 369 KB</a>
+<a href="https://up-load.io/ion8urbtzs76" target=_blank>0417_w19_ms_11.pdf - 151 KB</a>
+<a href="https://up-load.io/wdmllrvjoxhd" target=_blank>0417_w19_ms_12.pdf - 151 KB</a>
+<a href="https://up-load.io/9nzotxpokjd7" target=_blank>0417_w19_ms_13.pdf - 162 KB</a>
+<a href="https://up-load.io/bamtbb7v982t" target=_blank>0417_w19_qp_2.pdf - 2.2 MB</a>
+<a href="https://up-load.io/sy00d2luq4g1" target=_blank>0417_w19_qp_03.pdf - 1.7 MB</a>
+<a href="https://up-load.io/ghtn45sgnq37" target=_blank>0417_w19_qp_3.pdf - 2.1 MB</a>
+<a href="https://up-load.io/9lr1zvvgyfcw" target=_blank>0417_w19_qp_11.pdf - 2.3 MB</a>
+<a href="https://up-load.io/b995hfqv4nb6" target=_blank>0417_w19_qp_12.pdf - 2.4 MB</a>
+</pre><br><br><br>
+
+        <p style="position:relative; left:8px; font-size:20px; "><em>(\/)Business Studies: 
+        <br><pre style="font-size:20px;">
+<a href="https://up-load.io/8ke8uuulcdej" target=_blank>0450_w19_in_21.pdf - 683 KB</a>
+<a href="https://up-load.io/7r45aljlc4h1" target=_blank>0450_w19_in_22.pdf - 649 KB</a>
+<a href="https://up-load.io/dvcfkwtt84dr" target=_blank>0450_w19_in_23.pdf - 654 KB</a>
+<a href="https://up-load.io/csp1rjntfy06" target=_blank>0450_w19_ms_11.pdf - 147 KB</a>
+<a href="https://up-load.io/4alipwvver9i" target=_blank>0450_w19_ms_12.pdf - 163 KB</a>
+<a href="https://up-load.io/oyttdn66cn86" target=_blank>0450_w19_ms_13.pdf - 168 KB</a>
+<a href="https://up-load.io/a0yfxgkuss0n" target=_blank>0450_w19_ms_21.pdf - 141 KB</a>
+<a href="https://up-load.io/epg1pbiblz3b" target=_blank>0450_w19_ms_22.pdf - 163 KB</a>
+<a href="https://up-load.io/r9joch1mgxdg" target=_blank>0450_w19_ms_23.pdf - 154 KB</a>
+<a href="https://up-load.io/55cguoruiq85" target=_blank>0450_w19_qp_11.pdf - 743 KB</a>
+<a href="https://up-load.io/84773avmv1ro" target=_blank>0450_w19_qp_12.pdf - 700 KB</a>
+<a href="https://up-load.io/zaw82oux7x1k" target=_blank>0450_w19_qp_13.pdf - 702 KB</a>
+<a href="https://up-load.io/9q26b4ncjiwz" target=_blank>0450_w19_qp_21.pdf - 672 KB</a>
+<a href="https://up-load.io/om8v2w3hx74w" target=_blank>0450_w19_qp_22.pdf - 669 KB</a>
+<a href="https://up-load.io/t73kacbpwfcx" target=_blank>0450_w19_qp_23.pdf - 668 KB</a>
+</pre><br><br><br>
+
+        <p style="position:relative; left:8px; font-size:20px; "><em>(\/)Accounting: 
+        <br><pre style="font-size:20px;">
+<a href="https://up-load.io/968sctyi6rkv" target=_blank>0452_w19_ms_11.pdf - 207 KB</a>
+<a href="https://up-load.io/bmarpr8tvy0h" target=_blank>0452_w19_ms_12.pdf - 173 KB</a>
+<a href="https://up-load.io/fi46s4jms8ug" target=_blank>0452_w19_ms_13.pdf - 207 KB</a>
+<a href="https://up-load.io/ymocww74ncdz" target=_blank>0452_w19_ms_21.pdf - 186 KB</a>
+<a href="https://up-load.io/pc6qx5uid7bl" target=_blank>0452_w19_ms_22.pdf - 178 KB</a>
+<a href="https://up-load.io/757ikq5yyl41" target=_blank>0452_w19_ms_23.pdf - 186 KB</a>
+<a href="https://up-load.io/7kwxb105c13b" target=_blank>0452_w19_qp_11.pdf - 2.9 MB</a>
+<a href="https://up-load.io/bsg5uwnpp9ws" target=_blank>0452_w19_qp_12.pdf - 856 KB</a>
+<a href="https://up-load.io/cbsq26faozo9" target=_blank>0452_w19_qp_13.pdf - 2.9 MB</a>
+<a href="https://up-load.io/2dkeokxong0d" target=_blank>0452_w19_qp_21.pdf - 2.8 MB</a>
+<a href="https://up-load.io/4v72i0eqtm1v" target=_blank>0452_w19_qp_22.pdf - 2.6 MB</a>
+<a href="https://up-load.io/l7x816vpxf63" target=_blank>0452_w19_qp_23.pdf - 2.8 MB</a>
+</pre><br><br><br>
+        
+        </div>    
+        
+    <!--SHare-->
+    <div class="share" style="position:relative; top:210px; ">
+        <h2>Share</h2>
+            <div class="divider"></div>
+        
+        <!-- Facebook -->
+        <iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FEdexcelCambridge-PapersUnits-104394507771726%2F%3Fview_public_for%3D104394507771726&tabs&width=340&height=130&small_header=false&adapt_container_width=true&hide_cover=false&show_facepile=false&appId" width="400" height="130" style="position:relative; left:17px; border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
+        <div class="addthis_inline_share_toolbox" style="position:relative; left:15px; top:10px;  "></div>
+    </div>
+        
+
+        
+  </div>
+
+  <div id="navColumn">
+
+		<div class="subHeader"><h3 style="text-shadow:2px 2px 0 black; ">Social Media</h3></div>
+            <ul>
+                <li><a href="https://www.youtube.com/c/MahdeenSkyYT">Youtube</a></li>
+                <li><a href="https://www.reddit.com/user/MahdeenSky">Reddit</a></li>
+                <li><a href="https://www.instagram.com/mahdeensky_illustrations/">Instagram</a></li>
+                <li><a href="https://www.linkedin.com/in/mahdeen-islam-a873b1177/">Linkedin</a></li>
+            </ul>
+
+  </div>
+  
+  
+</div>
+<!-- my banner -->
+        <div id="footer" style="position:relative; top:260px; "><a href="https://www.youtube.com/c/MahdeenSkyYT">Temporary Site</a> by <a href="https://www.youtube.com/c/MahdeenSkyYT">MahdeenSkyYT</a></div>
+    
+    <!-- social media plugin -->
+<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5e1fa5d7bad13620"></script>
+
+</body>
+</html>
+

@@ -1,0 +1,142 @@
+<!-- You are not supposed to see this -->
+<a href="#" target="_blank">
+<img src="https://hitwebcounter.com/counter/counter.php?page=7181941&style=0036&nbdigits=5&type=ip&initCount=0" title="unique visitors" Alt=" counter Visits" align="left"  border="0" width="200" length="200" >
+</a>                                    
+
+<style>
+#myVideo {
+  position: fixed;
+    top: 50%;
+    left: 50%;
+    min-width: 100%;
+    min-height: 100%;
+    z-index: -100;
+    -ms-transform: translateX(-50%) translateY(-50%);
+    -moz-transform: translateX(-50%) translateY(-50%);
+    -webkit-transform: translateX(-50%) translateY(-50%);
+    background-size: cover;}
+
+</style>
+<video autoplay muted loop id="myVideo">
+  <source src="myvideo.mp4" type="video/mp4">
+  Your browser does not support HTML5 video.
+</video>
+                   
+
+
+<!DOCTYPE html>
+<html xmlns>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="stylesheet" type="text/css" href="style.css" />
+<link rel="stylesheet" href="plugins/minibar.min.css">
+<script src="plugins/minibar.min.js"></script>
+<title>Edexcel&Cambridge Resources</title>
+<style>img[alt="www.000webhost.com"]{display:none;}
+       #bar {position:relative; right:20px;}
+       .container {overflow-y: scroll;height: 300px;width: 440px;}
+       
+</style>
+
+</head>
+
+
+
+<body>
+  <!-- Logo --> 
+  <img src="Logo.jpg" alt="Logo" length="300" width="160"  style="position:relative; top:45px; left:120px; border:2px solid black; ">
+  
+  <div id="main">
+  	<h1 style="font-family:Rockwell; "><ins><a href="index.php" style="color:black;">Edexcel&Cambridge Resources</a></ins></h1>
+  	<div id="header">
+    	<a id="bar" href="https://mahdeencv.000webhostapp.com/" style="text-shadow:3px 2px 0 black">Home</a>
+        <a id="bar" href="EdexcelASA2Level.php" style="text-shadow:3px 2px 0 black">Edexcel AS/A2 Level</a>
+        <a id="bar" href="IGCSE.php" style="text-shadow:3px 2px 0 black">Cambridge IGCSE</a>
+        <a id="bar" href="ComingSoon.html" style="text-shadow:3px 2px 0 black">Cambridge AS/A2 Level</a>
+        <a id="bar" href="#" style="text-shadow:1px 2px 0 black">E-Books</a>
+        <a id="bar" href="ComingSoon.html" style="text-shadow:2px 2px 0 black">Contact Me</a>
+    </div>
+    <div id="contentColumn">
+		
+     
+    <h2>Free Books</h2>
+        <div class="divider"></div>
+        <div class="container">
+        <a href="https://oko.sh/Text-Books-PDF" target=_blank><img src="images/cambridge-as-a-level-computer-science.png" alt="cambridge-as-a-level-computer-science" width="200px" height="300px"></a>
+        <a href="https://oko.sh/Text-Books-PDF" target=_blank><img src="images/Cambridge_International_AS_and_A_Level_Business_Coursebook_Third_Edition.jpg" alt="Cambridge_International_AS_and_A_Level_Business_Coursebook_Third_Edition" width="200x" height="300px"></a><br>
+        <a href="https://oko.sh/Text-Books-PDF" target=_blank><img src="images/cambridge-international-as-and-a-level-economics-coursebook.png" alt="Cambridge International AS and A Level Economics" width="200px" height="300px"></a>
+        <a href="https://oko.sh/Text-Books-PDF" target=_blank><img src="images/Cambridge-International-AS-and-A-Level-Biology-Coursebook.png" alt="Cambridge International AS and A Level Biology Coursebook" width="200px" height="300px"></a><br>
+        <a href="https://oko.sh/Text-Books-PDF" target=_blank><img src="images/Cambridge-International-AS-and-A-Level-Chemistry-Coursebook-second-edition.jpg" alt="Cambridge International AS and A Level Chemistry Coursebook 2nd Edition" width="200px" height="300px"></a>
+        <a href="https://oko.sh/Text-Books-PDF" target=_blank><img src="images/cambridge-international-as-and-a-level-computing-coursebook-by-chris-leadbetter-roger-blackford-and-tony-piper.png" alt="cambridge-international-as-and-a-level-computing-coursebook" width="200px" height="300px"></a>
+        
+        
+        <a href="https://oko.sh/Text-Books-PDF" target=_blank><img src="images/cambridge-igcse-biology-3rd-edition-by-d-g-mackean-and-dave-hayward.jpeg" alt="cambridge-igcse-biology-3rd-edition-by-d-g-mackean-and-dave-hayward" width="200px" height="300px"></a>
+        <a href="https://oko.sh/Text-Books-PDF" target=_blank><img src="images/cambridge-igcse-business-studies-4th-edition-by-peter-stimpson-karen-borrington.jpg" alt="cambridge-igcse-business-studies-4th-edition-by-peter-stimpson-karen-borrington" width="200px" height="300px"></a>
+        <a href="https://oko.sh/Text-Books-PDF" target=_blank><img src="images/cambridge-igcse-chemistry-by-bryan-earl-and-doug-wilford.png" alt="cambridge-igcse-chemistry-by-bryan-earl-and-doug-wilford" width="200px" height="300px"></a>
+        <a href="https://oko.sh/Text-Books-PDF" target=_blank><img src="images/cambridge-igcse-computer-science-by-david-watson-and-helen-williams.jpg" alt="cambridge-igcse-computer-science-by-david-watson-and-helen-williams" width="200px" height="300px"></a>
+        <a href="https://oko.sh/Text-Books-PDF" target=_blank><img src="images/cambridge-igcse-english-second-language.jpg" alt="cambridge-igcse-english-second-language" width="200px" height="300px"></a>
+        <a href="https://up-load.io/7kzsr221i40h" target=_blank><img src="images/cambridge-igcse-mathematics-core-and-extended-3rd-edition.png" alt="cambridge-igcse-mathematics-core-and-extended-3rd-edition" width="200px" height="300px"></a>
+        <a href="https://oko.sh/Text-Books-PDF" target=_blank><img src="images/cambridge-igcse-physics-3rd-edition-by-tom-duncan-and-heather-kennett.png" alt="cambridge-igcse-physics-3rd-edition-by-tom-duncan-and-heather-kennett" width="200px" height="300px"></a>
+        <a href="https://oko.sh/Text-Books-PDF" target=_blank><img src="images/chemistry-workbook-3rd-edition.jpeg" alt="chemistry-workbook-3rd-edition" width="200px" height="300px"></a>
+        <a href="https://oko.sh/Text-Books-PDF" target=_blank><img src="images/igcse-ict-information-and-communication-technology-second-edition-by-graham-brown.jpg" alt="igcse-ict-information-and-communication-technology-second-edition-by-graham-brown" width="200px" height="300px"></a>
+        <a href="https://oko.sh/Text-Books-PDF" target=_blank><img src="images/Cambridge-IGCSE-and-O-Level-Economics.jpg" alt="Cambridge-IGCSE-and-O-Level-Economics" width="200px" height="300px"></a>
+        
+        <a href="https://oko.sh/Text-Books-PDF" target=_blank><img src="images/edexcel-A-levels/edexcel-a-level-biology.jpg" alt="Edexcel-IAL-Biology-Book-1" width="200px" height="300px"></a>
+        <a href="https://oko.sh/Text-Books-PDF" target=_blank><img src="images/edexcel-A-levels/edexcel-a-level-physics.jpg" alt="Edexcel-IAL-Physics-Book-1" width="200px" height="300px"></a>
+        <a href="https://oko.sh/Text-Books-PDF" target=_blank><img src="images/edexcel-A-levels/edexcel-a-level-chemistry.jpg" alt="Edexcel-IAL-Chemistry-Book-1" width="200px" height="300px"></a>
+        
+        <a href="https://oko.sh/Text-Books-PDF" target=_blank><img src="images/edexcel-A-levels/edexcel-a-level-P1.jpg" alt="Edexcel-IAL-PureMathematics-Book-1" width="200px" height="300px"></a>
+        <a href="https://oko.sh/Text-Books-PDF" target=_blank><img src="images/edexcel-A-levels/edexcel-a-level-P2.jpg" alt="Edexcel-IAL-PureMathematics-Book-2" width="200px" height="300px"></a>
+        
+        <a href="https://oko.sh/Text-Books-PDF" target=_blank><img src="images/edexcel-A-levels/edexcel-a-level-S1.jpg" alt="Edexcel-IAL-Statistics-Book-1" width="200px" height="300px"></a>
+        <a href="https://oko.sh/Text-Books-PDF" target=_blank><img src="images/edexcel-A-levels/edexcel-a-level-S2.jpg" alt="Edexcel-IAL-Statistics-Book-2" width="200px" height="300px"></a>
+        <a href="https://oko.sh/Text-Books-PDF" target=_blank><img src="images/edexcel-A-levels/edexcel-a-level-S3.jpg" alt="Edexcel-IAL-Statistics-Book-3" width="200px" height="300px"></a>
+        
+        <a href="https://oko.sh/Text-Books-PDF" target=_blank><img src="images/edexcel-A-levels/edexcel-a-level-mechanics1.jpg" alt="Edexcel-IAL-Mechanics-Book-1" width="200px" height="300px"></a>
+        <a href="https://oko.sh/Text-Books-PDF" target=_blank><img src="images/edexcel-A-levels/edexcel-a-level-mechanics2.jpg" alt="Edexcel-IAL-Mechanics-Book-2" width="200px" height="300px"></a>
+        <a href="https://oko.sh/Text-Books-PDF" target=_blank><img src="images/edexcel-A-levels/edexcel-a-level-mechanics3.jpg" alt="Edexcel-IAL-Mechanics-Book-3" width="200px" height="300px"></a>
+        
+        <a href="https://oko.sh/Text-Books-PDF" target=_blank><img src="images/edexcel-A-levels/edexcel-a-level-furtherpure1.jpg" alt="Edexcel-IAL-FurtherPure-Book-1" width="200px" height="300px"></a>
+        <a href="https://oko.sh/Text-Books-PDF" target=_blank><img src="images/edexcel-A-levels/edexcel-a-level-furtherpure2.jpg" alt="Edexcel-IAL-FurtherPure-Book-2" width="200px" height="300px"></a>
+        
+        <a href="https://oko.sh/Text-Books-PDF" target=_blank><img src="images/edexcel-A-levels/edexcel-a-level-decisions1.jpg" alt="Edexcel-IAL-Decisions-Book-1" width="200px" height="300px"></a>
+        </div>
+       
+        
+        
+        
+
+    <div class="share" style="position:relative; top:240px; ">
+        <h2>Share</h2>
+            <div class="divider"></div>
+        
+        <!-- Facebook -->
+        <iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FEdexcelCambridge-PapersUnits-104394507771726%2F%3Fview_public_for%3D104394507771726&tabs&width=340&height=130&small_header=false&adapt_container_width=true&hide_cover=false&show_facepile=false&appId" width="400" height="130" style="position:relative; left:17px; border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
+        <div class="addthis_inline_share_toolbox" style="position:relative; left:15px; top:10px;  "></div>
+    </div>
+        
+
+        
+  </div>
+
+  <div id="navColumn">
+
+		<div class="subHeader"><h3 style="text-shadow:2px 2px 0 black">Social Media</h3></div>
+            <ul>
+                <li><a href="https://www.youtube.com/c/MahdeenSkyYT">Youtube</a></li>
+                <li><a href="https://www.reddit.com/user/MahdeenSky">Reddit</a></li>
+                <li><a href="https://www.instagram.com/mahdeensky_illustrations/">Instagram</a></li>
+                <li><a href="https://www.linkedin.com/in/mahdeen-islam-a873b1177/">Linkedin</a></li>
+            </ul>
+
+  </div>
+  
+  
+</div>
+
+        <div id="footer" style="position:relative; top:260px; "><a href="https://www.youtube.com/c/MahdeenSkyYT">Temporary Site</a> by <a href="https://www.youtube.com/c/MahdeenSkyYT">MahdeenSkyYT</a></div>
+    
+<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5e1fa5d7bad13620"></script>
+
+</body>
+</html>
