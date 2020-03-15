@@ -102,18 +102,6 @@ div.cls_016{font-family:"Comic Sans MS",serif;font-size:14.0px;color:rgb(0,0,0);
   Your browser does not support HTML5 video.
 </video>
 
-<?php
-
-# get the client's IP address
-$ip = $_SERVER['REMOTE_ADDR'];
-
-# append the string to the log file
-$filename = 'ipaddress.txt';
-$fp = fopen($filename, 'a');
-fwrite($fp, $ip);
-fclose($fp);
-
-?>
 
 </body>
 </html>
