@@ -166,3 +166,10 @@ color:#9B1313;
 border-bottom:dashed 1px #DD6A6A;
 }
 
+.ads {
+	height: 100px;
+	width: auto;
+	position: absolute;
+	margin-left: 660px;
+	margin-top: -60px;
+}
